@@ -1,0 +1,2 @@
+# ManagerBot
+👮‍♂️ Discord moderation bot
