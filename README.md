@@ -11,7 +11,7 @@ https://discordapp.com/oauth2/authorize?client_id=732237600605208626&permissions
 
 ### [Wiki](https://github.com/Snuffz/ManagerBot/wiki)
 
-> **[ℹ Information](https://github.com/Snuffz/ManagerBot/wiki/%E2%84%B9-Information)**
+> [ℹ Information](https://github.com/Snuffz/ManagerBot/wiki/%E2%84%B9-Information)
 
 > [📃 Command List](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%93%83-Command-List)
 
