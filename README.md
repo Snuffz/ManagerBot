@@ -9,7 +9,7 @@ The Manager was created to moderate servers in language [JavaScript](https://pt.
 To add the **Manager** to your server click on the following link: 
 https://discordapp.com/oauth2/authorize?client_id=732237600605208626&permissions=500559086&scope=bot
 
-### [Home](https://github.com/Snuffz/ManagerBot/wiki)
+### [Wiki](https://github.com/Snuffz/ManagerBot/wiki)
 
 > **[ℹ Information](https://github.com/Snuffz/ManagerBot/wiki/%E2%84%B9-Information)**
 
