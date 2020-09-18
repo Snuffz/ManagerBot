@@ -17,6 +17,8 @@ https://discordapp.com/oauth2/authorize?client_id=732237600605208626&permissions
 
 > [☎ Support Server](https://github.com/Snuffz/ManagerBot/wiki/%E2%98%8E-Support-Server)
 
+> [🌪 TimeZone](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%8C%AA-TimeZone)
+
 > [🗣 Arguments Guide](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%97%A3-Arguments-Guide)
 
 > [🚨 Clean Messages](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%9A%A8-Clean-Messages)
