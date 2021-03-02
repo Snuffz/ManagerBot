@@ -23,6 +23,6 @@ https://discordapp.com/oauth2/authorize?client_id=732237600605208626&permissions
 
 ## Contact
 
-For contacts with the developer in matters of partnerships, notification or denunciations contact me (Snuff#0001).
+For contacts with the developer in matters of partnerships, notification or denunciations contact me (Snuff#8305).
 
-For questions or possible bugs, go to the [#doubts](https://discord.gg/HTV2Wgh) channel and clear that doubt.
+For questions or possible bugs, go to the [#support_and_doubts](https://discord.gg/HTV2Wgh) channel and clear that doubt.
