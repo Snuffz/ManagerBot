@@ -11,19 +11,15 @@ https://discordapp.com/oauth2/authorize?client_id=732237600605208626&permissions
 
 ### [Wiki](https://github.com/Snuffz/ManagerBot/wiki)
 
-> [ℹ Information](https://github.com/Snuffz/ManagerBot/wiki/%E2%84%B9-Information)
-
-> [📃 Command List](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%93%83-Command-List)
-
-> [☎ Support Server](https://github.com/Snuffz/ManagerBot/wiki/%E2%98%8E-Support-Server)
-
-> [🌪 TimeZone](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%8C%AA-TimeZone)
-
-> [🗣 Arguments Guide](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%97%A3-Arguments-Guide)
-
-> [🚨 Clean Messages](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%9A%A8-Clean-Messages)
-
-> [🚩 Strikes](https://github.com/Snuffz/ManagerBot/wiki/%F0%9F%9A%A9-Strikes)
+> [ℹ Information](https://github.com/Snuffz/ManagerBot/wiki/Information)
+> 
+> [🗣 Arguments Guide](https://github.com/Snuffz/ManagerBot/wiki/Arguments-Guide)
+> 
+> [🚩 Strikes](https://github.com/Snuffz/ManagerBot/wiki/Strikes)
+> 
+> [🛡 Automod](https://github.com/Snuffz/ManagerBot/wiki/Automod)
+> 
+> [📃 Command List](https://github.com/Snuffz/ManagerBot/wiki/Commands)
 
 ## Contact
 
