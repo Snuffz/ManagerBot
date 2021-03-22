@@ -2,6 +2,7 @@
 
 [![Patreon](https://img.shields.io/badge/donate-Patreon-orange.svg)](https://patreon.com/snuff)
 [![Discord](https://discordapp.com/api/guilds/720071009721647135/widget.png)](https://discord.gg/eEQBT4A)
+[![privacy policy](https://img.shields.io/badge/Privacy%20Policy--lightgrey.svg?style=social)](https://gist.github.com/Snuffz/52fc13247025faff9fa05f1edafeb21c)
 
 The Manager was created to moderate servers in language [JavaScript](https://pt.wikipedia.org/wiki/JavaScript) using the library [Discord.js](https://discord.js.org/#/)
 
